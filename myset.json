@@ -91,7 +91,7 @@
             "learning_style": ["Global","Reflective"],
             "communication_style": ["Story Telling","Socratic"],
             "tone_style": ["Debate"],
-            "reasoning_framework": [“Abductive”],
+            "reasoning_framework": ["Abductive"],
             "use_emojis": true,
             "language": "Chinese (Default)"
         },
